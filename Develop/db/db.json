@@ -1,6 +1,17 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed",
+    "title": "First Note",
+    "text": "This is the content of the first note."
+  },
+  {
+    "id": "2a9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed",
+    "title": "Second Note",
+    "text": "This is the content of the second note."
+  },
+  {
+    "title": "Hello",
+    "text": "This is what i gotta do today!",
+    "id": "7957098c-4591-4fbe-bd31-4709df2cedf9"
+  }
 ]
