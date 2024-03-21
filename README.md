@@ -28,5 +28,5 @@ anyway they want.
 ## Questions
 For any questions about this project, please reach out to Uppalmanraj@gmail.com.
 
-Live Demo:
-https://drive.google.com/file/d/1oiltwOKGickKLkCLj1ER-Nk7Oc8Ew08T/view
+Live Deployment:
+https://takingnotes-8ac478490a41.herokuapp.com/
